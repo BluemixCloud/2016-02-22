@@ -1,0 +1,23 @@
+### node ###
+nvm ls # shows all installed node versions
+nvm install 5.6
+nvm alias default 5.6
+
+### cloud foundry ###
+cd ~/downloads
+https://github.com/cloudfoundry/cli/releases
+Debian 64bit installer
+wget -O cf.deb https://cli.run.pivotal.io/stable?release=debian64&version=6.15.0&source=github-rel
+sudo dpkg -i cf.deb
+
+### aliases ###
+vi ~/.bash_aliases
+alias b="cd .."
+alias c="clear"
+alias code="cd ~/workspace"
+
+### git-config ###
+cd ~
+rm .gitconfig
+wget https://raw.githubusercontent.com/chyld/devops/master/.gitconfig
+vi .gitconfig
