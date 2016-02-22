@@ -1,0 +1,61 @@
+# IBM Cloud Advisors 101 - Day 1
+
+## Schedule
+
+- 08:00am : Arrive & Setup
+  - Meet & Greet + Breakfast
+  - Get on Network (g|events -> machinelearning)
+- 08:30am : Introductions
+  - Roll Call, Verify Emails
+  - Students
+  - Instructor
+  - About Galvanize
+  - Course Overview
+- 09:00am : Slide - Overview
+- 09:10am : The Cloud
+- 09:15am : The Cloud Advisor Role
+  - Challenges
+  - Business Aspect
+  - Technical Aspect
+- 09:30am : Design Thinking by BlueMix Garage
+- 10:00am : Hackathons
+  - Corporate Hackathons
+  - http://bluemixathon.devpost.com/
+  - https://vimeo.com/137915648
+  - http://www.linkedin.com/pulse/so-you-want-run-corporate-hackathon-vinod-ralh
+  - https://www.mashape.com/explore
+- 10:30am : Agile
+  - http://www.agilemanifesto.org/
+  - http://www.agilemanifesto.org/principles.html
+  - http://www.extremeprogramming.org/rules.html
+  - Show Track & Plan in DevOps Services
+- 11:00am : Pairs
+- 11:10am : JavaScript Review
+  - https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going
+- 11:30am : CodePen
+  - http://codepen.io/
+  - Various Projects
+- 11:50pm : Virtual Machine
+  - BIOS configured for VMs
+  - Setup VM with Extensions
+  - username/password (ibm/ibm)
+  - change keyboard language
+  - enable drag & drop, copy & paste
+  - Edit .gitconfig
+  - Enable git password caching
+  - Add chrome JSON view Extension
+  - Add HTML Autocomplete to Atom
+- 12:00pm : Lunch
+- 13:00pm : Git/JazzHub Review
+  - Alpha Project (a.txt, b.txt)
+  - Beta Project (solve basic math problems)
+- 15:00pm : Fork & Clone Template
+  - git clone https://hub.jazz.net/git/chyld/template2
+  - HTML
+  - CSS
+  - Zurb Foundation
+  - JS / jQuery
+  - Movie Site
+  - Math / Calculator
+  - Deploy
+- 17:00pm : Review
