@@ -19,5 +19,5 @@ alias code="cd ~/workspace"
 ### git-config ###
 cd ~
 rm .gitconfig
-wget https://raw.githubusercontent.com/chyld/devops/master/.gitconfig
+wget https://raw.githubusercontent.com/chyld/devops/master/dotfiles/ubuntu-ec2/.gitconfig
 vi .gitconfig
