@@ -1,4 +1,4 @@
-## IBM Cloud Advisors 101 - Day 1
+## IBM Cloud Advisors 101 - Day 1 (Fundamentals)
 
 ### Schedule
 
@@ -24,9 +24,17 @@
   - https://github.com/getify/You-Dont-Know-JS
   - Up & Going
   - Node.js
-  - Test Driven Development
+  - Projects
+    - Add/Subtract
+    - Square
+    - Sum List of Numbers
+    - Factorial
+    - Distance Formula
+    - Home Price Estimator
 - 12:00pm : Lunch
-- 13:00pm : Continue JavaScript/Node/TDD
-- 14:00pm : Git/JazzHub
-- 15:00pm : Front End Application Development
+- 13:00pm : Git/JazzHub/TDD/Mocha/Chai
+  - Add
+  - Factorial
+  - Largest Number in Array
+  - isPrime
 - 17:00pm : Review
