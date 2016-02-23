@@ -21,3 +21,7 @@ cd ~
 rm .gitconfig
 wget https://raw.githubusercontent.com/chyld/devops/master/dotfiles/ubuntu-ec2/.gitconfig
 vi .gitconfig
+
+### httpie ###
+sudo pip install httpie
+sudo pip3 install httpie
