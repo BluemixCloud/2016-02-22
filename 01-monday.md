@@ -37,8 +37,9 @@
   - https://mochajs.org/
   - http://chaijs.com/
   - https://www.npmjs.com/
-  - Add
-  - Factorial
-  - Largest Number in Array
-  - isPrime
+  - Projects
+    - Add
+    - Factorial
+    - Largest Number in Array
+    - isPrime
 - 17:00pm : Review
