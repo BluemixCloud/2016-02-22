@@ -24,6 +24,7 @@
   - https://github.com/getify/You-Dont-Know-JS
   - Up & Going
   - Node.js (Module System, exports)
+  - http://openmymind.net/2012/2/3/Node-Require-and-Exports/
   - Projects
     - Add/Subtract
     - Square
