@@ -23,7 +23,7 @@
 - 10:30am : JavaScript
   - https://github.com/getify/You-Dont-Know-JS
   - Up & Going
-  - Node.js
+  - Node.js (Module System, exports)
   - Projects
     - Add/Subtract
     - Square
