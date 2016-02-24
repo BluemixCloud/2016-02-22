@@ -1,4 +1,4 @@
-# IBM Cloud Advisors 101 - Day 2
+# IBM Cloud Advisors 101 - Day 2 (Backend)
 
 ## Schedule
 
