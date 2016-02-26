@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Chyld Geo Service</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 100%;
+        border-top: 3px solid black;
+      }
+      body{
+        background-color: #7FDBFF;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+
+      <div class="row">
+        <div class="col-xs-12">
+          <h1>Chyld Geo Service</h1>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-xs-12">
+          <div style="margin: 10px;">
+            <button id="locate" type="button" class="btn btn-danger btn-xs">Locate</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-xs-12">
+          <div style="margin: 10px;">
+            <button id="query" type="button" class="btn btn-info btn-xs">Query</button>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <div id="map"></div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAOwayPl8RxsIk_ZiYHp4sQi3JKPr3MHHc"></script>
+    <script type="text/javascript" src="geo.js"></script>
+  </body>
+</html>
+
+

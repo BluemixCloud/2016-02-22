@@ -1,0 +1,20 @@
+{
+  "name": "chyld-node-red-apps",
+  "version": "1.0.0",
+  "description": "This README.md file is displayed on your project page. You should edit this  file to describe your project, including instructions for building and  running the project, pointers to the license under which you are making the  project available, and anything else you think would be useful for others to know.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://hub.jazz.net/git/chyld/chyld-node-red-apps"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "request": "^2.69.0"
+  }
+}

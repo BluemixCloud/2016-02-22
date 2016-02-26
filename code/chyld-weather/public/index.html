@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Chyld Weather Forecast Service</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <h1>Chyld Weather Forecast Service</h1>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-xs-4">
+          <button id="get-coordinates" type="button" class="btn btn-info">Get Coordinates</button>
+        </div>
+        <div class="col-xs-4" id="lat">
+          lat
+        </div>
+        <div class="col-xs-4" id="lng">
+          lng
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-xs-4">
+          <button id="get-weather" type="button" class="btn btn-danger">Get Weather</button>
+        </div>
+        <div class="col-xs-8">
+          <table class="table table-striped">
+            <thead>
+              <tr>
+                <th>Day</th>
+                <th>Forecast</th>
+              </tr>
+            </thead>
+            <tbody id="wdata">
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="weather.js"></script>
+  </body>
+</html>
